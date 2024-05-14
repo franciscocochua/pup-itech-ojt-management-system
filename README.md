@@ -1,4 +1,4 @@
-# LICOMCO OJT Record Management System
+# PUP ITECH - OJT MANAGEMENT SYSTEM
 
 Language/s Used: PHP, Tailwind CSS and JavaScript <br>
 Database: MySQL Database <br>
